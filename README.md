@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently improving my HTML and CSS skills.
+- 🔭 I’m currently working on challenges from FrontendMentor.io
 - 👯 I’m looking to collaborate on nothing in particular yet.
+- 📫 [Visit my portfolio](https://markvanweersch.github.io/index.html) hosted my GitHub Pages
 
 <!--
 **MarkVanweersch/MarkVanweersch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
