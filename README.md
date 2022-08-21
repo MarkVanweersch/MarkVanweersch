@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently improving my HTML and CSS skills.
 - 🌱 I’m currently learning JavaScript.
-- 🔭 I’m currently working on challenges from FrontendMentor.io
+- 🔭 I’m currently working on challenges from FrontendMentor.io.
 - 👯 I’m looking to collaborate on nothing in particular yet.
 - 📫 [Visit my portfolio](https://markvanweersch.github.io/index.html) hosted by GitHub Pages
 
